@@ -1383,22 +1383,13 @@ h3.comment-reply-title:after {
   width: 90%;
 }
 .skill-percentage.skill-5 {
-  width: 85%;
+  width: 100%;
 }
 .skill-percentage.skill-6 {
-  width: 70%;
+  width: 95%;
 }
 .skill-percentage.skill-7 {
   width: 60%;
-}
-.skill-percentage.skill-8 {
-  width: 75%;
-}
-.skill-percentage.skill-9 {
-  width: 100%;
-}
-.skill-percentage.skill-10 {
-  width: 80%;
 }
 /* /Skills */
 
