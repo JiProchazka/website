@@ -1201,7 +1201,7 @@ h3.comment-reply-title:after {
   text-align: center;
   padding: 5px 0;
   margin-bottom: 30px;
-  opacity: 0.4;
+  /* opacity: 0.4; */
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -1371,16 +1371,16 @@ h3.comment-reply-title:after {
 }
 
 .skill-percentage.skill-1 {
-  width: 95%;
+  width: 100%;
 }
 .skill-percentage.skill-2 {
-  width: 65%;
+  width: 85%;
 }
 .skill-percentage.skill-3 {
-  width: 80%;
+  width: 31%;
 }
 .skill-percentage.skill-4 {
-  width: 90%;
+  width: 31%;
 }
 .skill-percentage.skill-5 {
   width: 100%;
