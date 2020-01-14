@@ -66,7 +66,7 @@
     //     });
     //     return false;
     //   }
-    });
+    // });
   });
   // /Contact form validator
 
