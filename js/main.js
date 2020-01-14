@@ -44,6 +44,7 @@
         $.ajax({
           type: "POST",
           url: url,
+          contentType: "application/json",
           data: $(this).serialize(),
           dataType: "json",
           success: function(data) {
