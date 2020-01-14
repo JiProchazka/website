@@ -45,10 +45,10 @@
           type: "POST",
           url: url,
           data: $(this).serialize(),
+          dataType: "json",
           success: function(data) {
             var messageAlert = "alert-" + data.type;
             var messageText = data.message;
-
             var alertBox =
               '<div class="alert ' +
               messageAlert +
