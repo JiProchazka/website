@@ -1,0 +1,17 @@
+.blog {
+  margin-top: 14px !important;
+  text-align: center;
+}
+
+.blog a {
+  display: inline-block;
+  margin: 0 auto;
+  background-color: #eee;
+  padding: 4px 8px;
+  color: #888;
+}
+
+.blog a:hover {
+  color: white;
+  background-color: #0099e5;
+}
